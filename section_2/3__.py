@@ -1,3 +1,4 @@
+#k번째 큰 수
 import sys
 sys.stdin=open(r"C:\Users\Sang\Desktop\workspace\section_2\input.txt","rt")
 

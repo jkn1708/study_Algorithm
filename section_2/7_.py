@@ -1,3 +1,5 @@
+#소수(에라토스테네스 체) 
+
 import sys
 sys.stdin=open(r"C:\Users\Sang\Desktop\workspace\study\section_2\input.txt","rt")
 n=int(input())

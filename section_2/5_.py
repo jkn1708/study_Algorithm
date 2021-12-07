@@ -1,3 +1,5 @@
+#정다면체
+
 import sys
 sys.stdin=open(r"C:\Users\sanghyeon\Desktop\VS_workspace\section_2\input.txt","rt")
 max=0

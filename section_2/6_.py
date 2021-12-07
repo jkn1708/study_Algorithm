@@ -1,3 +1,5 @@
+#자리수의 합
+
 import sys
 sys.stdin=open(r"C:\Users\sanghyeon\Desktop\VS_workspace\section_2\input.txt","rt")
 n=int(input())

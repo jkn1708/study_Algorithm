@@ -1,3 +1,5 @@
+#k번째 약수
+
 import sys
 cnt=0
 n,k = map(int,input().split())

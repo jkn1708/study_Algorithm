@@ -1,3 +1,5 @@
+#뒤집은 소수
+
 import sys
 sys.stdin=open(r"C:\Users\Sang\Desktop\workspace\study\section_2\input.txt","rt")
 
