@@ -1,5 +1,6 @@
-# study_python
-to study algorithms.
+# study_Algorithm
+study algorithms in python.
+
 
 Linear Search Algorithm
 
