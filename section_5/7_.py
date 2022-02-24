@@ -10,7 +10,8 @@ for i in range(n):
     dq=deque(need)
     for x in plan:
         if x in dq:
-            if x!=dq.popleft():
+            a=dq.popleft()
+            if x!=a:
                 print("#%d NO" %(i+1))
                 break
     else:
